@@ -25,7 +25,7 @@
   "directories.bin": "node_modules/.bin/",
   "dependencies": {
     "async": "^3.2.4",
-    "ajv": "^8.11.0",
+    "ajv": "6.12.3",
     "app-root-dir": "^1.0.2",
     "electron-store": "^5.1.0",
     "electron-window-state": "^4.1.1",
