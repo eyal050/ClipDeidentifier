@@ -24,18 +24,23 @@
   },
   "directories.bin": "node_modules/.bin/",
   "dependencies": {
+    "async": "^3.2.4",
+    "ajv": "^8.11.0",
     "app-root-dir": "^1.0.2",
     "electron-store": "^5.1.0",
     "electron-window-state": "^4.1.1",
     "ffbinaries": "^1.1.4",
     "jquery": "^3.5.0",
-    "jquery-ui": "^1.12.1",
+    "jquery-ui": "^1.13.1",
     "jquery-ui-bundle": "^1.12.1",
+    "lodash": "^4.17.21",
+    "json-schema": "^0.4.0",
+    "minimist": "^1.2.6",
     "os-tmpdir": "^1.0.2",
     "path": "^0.12.7",
     "rimraf": "^3.0.1",
     "sha256-file": "^1.0.0",
-    "shelljs": "^0.7.6"
+    "shelljs": "^0.8.5"
   },
   "productName": "ClipDeidentifier"
 }
